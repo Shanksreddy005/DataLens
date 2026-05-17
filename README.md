@@ -67,10 +67,3 @@ npm install
 npm run dev
 ```
 The frontend UI will run on `http://localhost:5173`. Open this URL in your browser to interact with DataLens!
-
-## 🎯 Why this project?
-
-This product was built to demonstrate full-stack data engineering capabilities:
-- **Systems Thinking:** Moving beyond single-use Jupyter Notebooks to building generalized data pipelines.
-- **API Design:** Creating robust endpoints capable of handling file streams and returning structured JSON payloads.
-- **Data Communication:** Presenting complex statistical profiles in an easily digestible, visually stunning dashboard.
